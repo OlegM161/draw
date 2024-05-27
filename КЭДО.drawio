@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T12:39:26.065Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="lCG9gtg0jUo8lSlhgL3H" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T12:41:05.004Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="Pm2z4ZUj73UCiRTTRSUZ" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="LrOz8V3_CL4yAccr49bo">
     <mxGraphModel dx="2467" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-4OjDh-mR03Cg_0oIZPv-1" value="Прием на работу" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;container=1;perimeter=none;" parent="1" vertex="1">
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-1" value="Прием на работу сотрудника" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;container=1;perimeter=none;" parent="1" vertex="1">
           <mxGeometry x="-40" y="60" width="3070" height="770" as="geometry" />
         </mxCell>
         <mxCell id="-4OjDh-mR03Cg_0oIZPv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-4OjDh-mR03Cg_0oIZPv-1" source="-4OjDh-mR03Cg_0oIZPv-14" target="-4OjDh-mR03Cg_0oIZPv-13" edge="1">

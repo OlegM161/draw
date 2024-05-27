@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T08:12:35.384Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" version="24.4.8" etag="zcJyqq1K_r2rxELag5Vp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T09:08:24.148Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="MgU97eBhIziPznoTMwYR" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="LrOz8V3_CL4yAccr49bo">
-    <mxGraphModel>
+    <mxGraphModel dx="961" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-1" value="Прием на работу" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;container=1;perimeter=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-2" value="Кадровый работник" style="swimlane;html=1;startSize=20;horizontal=0;perimeter=backbonePerimeter;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-1">
+          <mxGeometry x="20" width="740" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-5" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-2">
+          <mxGeometry x="40" y="135" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-6" value="Подготовить пакет документов" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-2">
+          <mxGeometry x="130" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-7" value="&lt;ul&gt;&lt;li&gt;Соглашение об электронном взаимодействии&lt;/li&gt;&lt;li&gt;Согласие о переходе на КЭДО&lt;/li&gt;&lt;li&gt;Согласие на обработку персональных данных&lt;/li&gt;&lt;li&gt;Инструктаж по охране труда&lt;/li&gt;&lt;li&gt;Направление на медосмотр&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;perimeterSpacing=1;perimeter=orthogonalPerimeter;absoluteArcSize=0;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-2">
+          <mxGeometry x="189" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-8" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-4OjDh-mR03Cg_0oIZPv-2" source="-4OjDh-mR03Cg_0oIZPv-6" target="-4OjDh-mR03Cg_0oIZPv-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="110" as="sourcePoint" />
+            <mxPoint x="340" y="59" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-3" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-1">
+          <mxGeometry x="20" y="270" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-4OjDh-mR03Cg_0oIZPv-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="-4OjDh-mR03Cg_0oIZPv-1">
+          <mxGeometry x="20" y="390" width="740" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

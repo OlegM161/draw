@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T11:44:37.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0 (Edition Yx 05)" version="24.3.1" etag="LzD6c3KrABvtJ023cVxI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T12:02:12.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0 (Edition Yx 05)" etag="9dhR46qoz_YEVXKQx4zJ" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="kG7hITTP2PzdcbItxc-G">
-    <mxGraphModel>
+    <mxGraphModel dx="1150" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-1" value="Поддержка ИТ" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="910" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-2" value="Пользователь" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-1">
+          <mxGeometry x="20" width="890" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lPACUD7Po6VS-SwUSSrr-2" source="lPACUD7Po6VS-SwUSSrr-5" target="lPACUD7Po6VS-SwUSSrr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-5" value="Заявка в ИТ" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-2">
+          <mxGeometry x="70" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-6" value="Оформить&amp;nbsp;&lt;div&gt;Заявку в ИТ&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-2">
+          <mxGeometry x="190" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-3" value="Исполнитель" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-1">
+          <mxGeometry x="20" y="240" width="890" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lPACUD7Po6VS-SwUSSrr-4" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-1">
+          <mxGeometry x="20" y="360" width="890" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

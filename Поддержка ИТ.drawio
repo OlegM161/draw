@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T06:08:55.329Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="Tz3c1YF_19BvKU3Me-kL" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:08:43.375Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="qve6i9g9sWpU2BMYTx-U" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="kG7hITTP2PzdcbItxc-G">
-    <mxGraphModel dx="2323" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,11 @@
         </mxCell>
         <mxCell id="EnvFjiFe3hB0h1FO8gZz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lPACUD7Po6VS-SwUSSrr-2" source="EnvFjiFe3hB0h1FO8gZz-49" target="EnvFjiFe3hB0h1FO8gZz-56">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnvFjiFe3hB0h1FO8gZz-61" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EnvFjiFe3hB0h1FO8gZz-57">
+          <mxGeometry x="-0.2615" y="-3" relative="1" as="geometry">
+            <mxPoint x="-12" y="-13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EnvFjiFe3hB0h1FO8gZz-59" value="Заявка&lt;div&gt;выполнена&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="lPACUD7Po6VS-SwUSSrr-2">
           <mxGeometry x="2880" y="95" width="50" height="50" as="geometry" />

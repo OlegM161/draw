@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T08:35:27.543Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" version="24.7.1" etag="c3MtWuBbhwfkTA_Mx2VL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T09:23:13.142Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="wy1JAOob2TSF_pu5KLd4" version="24.7.1" type="github">
   <diagram name="Страница — 1" id="94yq8rON1ORlZ_m-I1sI">
-    <mxGraphModel>
+    <mxGraphModel dx="1944" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P559ENG4m1cFqqR3Orcd-1" value="СкладыСервер&lt;div&gt;(Модуль-расширения для маркировки)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-100" width="380" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="P559ENG4m1cFqqR3Orcd-2" value="ДатаМобайл_Локализация&lt;div&gt;(Модуль ТСД для маркировке)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-100" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="P559ENG4m1cFqqR3Orcd-4" value="ОбщийМаркировкаСервер&lt;div&gt;(Общий модуль для маркировки)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-100" width="220" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
